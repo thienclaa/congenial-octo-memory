@@ -27,11 +27,11 @@ summary(`LogisReg`)
 coef(`LogisReg`)
 RegOut <- c(coef(`LogisReg`)); RegOut
 # The probabilities of approval
-  # Case a: Credit Scores = 830, Income = 64200, Neighborhood ranking = 2
+  # Case a: Credit Scores = 830, Income = 64200, Neighborhood ranking = 2 (Divide Credit Scores by 10 and Incomes by 1000)
 OddA <- exp(RegOut[1] + (RegOut[2]*83) + (RegOut[3]*642) + (RegOut[4]*2)); OddA
 Prob1 <- OddA / (1 + OddA) * 100; Prob1
   # Case b: Credit Scores = 775, Income = 55500, Neighborhood ranking = 1
 OddB <- exp(RegOut[1] + (RegOut[2]*77.5) + (RegOut[3]*555) + (RegOut[4]*1)); OddB
-Prob2 <- OddB / (1 + OddB); Prob2
+Prob2 <- OddB / (1 + OddB) * 100; Prob2
 # Odds of loan approval for someone who lives in Neighborhood 1 as opposed to someone in Neighborhood 2
 `Neighbor1 vs Neighbor2` <- OddB / OddA; `Neighbor1 vs Neighbor2`
