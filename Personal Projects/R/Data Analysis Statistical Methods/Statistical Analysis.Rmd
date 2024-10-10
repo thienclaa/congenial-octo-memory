@@ -1,0 +1,346 @@
+---
+title: "Statistical Analysis Multiple Methods"
+author: "Lucky"
+output:
+  word_document: default
+  pdf_document: default
+---
+**ANOVA 2-factor Analysis. Use a 5% Level of Significance**
+
+a. Can we conclude differences exist between the 4 forms?
+
+b. Can we conclude taxpayers in different tax brackets require different amount of time?
+
+c. Is there an evidence of interaction between the two factors? Explain what it means. 
+
+d. Graph to show the interaction between the two factors.
+\newline
+```{r, echo = FALSE}
+# Clear the environment
+rm(list = ls())
+# Assign dir1 to the folder on your computer where this excel file is. 
+dir1 <- ("~/Desktop/DA Porfolio/Adv Stat R/Statistical Analysis")
+# Set the working directory to dir1
+setwd(dir1)
+# Load readxl library
+library(readxl)
+# Read this excel file
+Prob1 <- read_excel("Example3.xlsx", sheet = "Prob1")
+# Problem 1: ANOVA 2-factor
+# Create data frames
+v1 <- data.frame(Time = Prob1[, 2], Bracket = Prob1[, 1],  Form = rep("Form 1", 30))
+names(v1)[names(v1) == "Form.1"] <- "Time"
+v2 <- data.frame(Time = Prob1[, 3], Bracket = Prob1[, 1],  Form = rep("Form 2", 30))
+names(v2)[names(v2) == "Form.2"] <- "Time"
+v3 <- data.frame(Time = Prob1[, 4], Bracket = Prob1[, 1],  Form = rep("Form 3", 30))
+names(v3)[names(v3) == "Form.3"] <- "Time"
+v4 <- data.frame(Time = Prob1[, 5], Bracket = Prob1[, 1],  Form = rep("Form 4", 30))
+names(v4)[names(v4) == "Form.4"] <- "Time"
+# Set seed
+set.seed(6359)
+# Combine vectors
+Data1 <- rbind(v1, v2, v3, v4)
+# Rename
+names(Data1)[names(Data1) == "Tax.Bracket"] <- "TaxBracket"
+# ANOVA 2-factor analysis. Use a 5% Level of Significance.
+ANOVA2 <- aov(Time ~ TaxBracket + Form + TaxBracket:Form, data=Data1)
+# Summary
+summary(ANOVA2)
+```
+Mean time required to fill out the form
+```{r, echo = FALSE}
+# Mean of time difference between brackets
+tapply(Data1$Time, list(Data1$TaxBracket, Data1$Form), mean)
+# Interaction Plot
+interaction.plot(Data1$TaxBracket, Data1$Form, Data1$Time, lwd = 1, col = 1:6, main = "Tax Bracket vs Form")
+```
+**Answers for ANOVA 2-factor Analysis**
+
+a. Can we conclude differences exist between the 4 forms?
+
+    * Tax Bracket: P-Value < Alpha. Reject 
+    * Form: P-Value > Alpha. Fail to reject 
+    * Tax Bracket & Form: P-Value < Alpha. Reject 
+    
+Yes. We can conclude that differences exist between 4 form.
+
+b. Can we conclude taxpayers in different tax brackets require different amount of time?
+
+Yes, we can conclude that taxpayers in different tax brackets require different amount of time based on the average time taken to fill out the form. For instance, the overall average of Low is 90.525, Medium is 100.875 and High is 108.8.
+  
+c. Is there an evidence of interaction between the two factors? Explain what it means.
+
+Yes, there is an evidence that there is an interaction between the two factors.We are looking at 2 factors Tax Bracket and Form. Based on the summary of ANOVA 2-factor, the P-Value of two factors are smaller than Alpha = 0.5 thus we Reject the null hypothesis. Moreover, we can also use interaction plot to find evidence of interaction between two factors.
+ 
+---
+
+**Generate Normal Distribution**
+
+Generate a Normal Distribution with N = 3,000, Mean = 200, and Std dev = 40. Round it off to 0 (make it integer). From this population, select a random sample of size n = 150. Set.seed = 6359.
+
+In this sample, find the proportion of the numbers (P-hat) which are Greater than or Equal to 215.  	
+
+a. Calculate std error of the sample proportion. Calculate the z-score for a Confidence level of 92.73%.  	
+
+b. Use the above information to compute the confidence interval 	
+
+c. Find the actual proportion of numbers Greater than or Equal to 215 in the population.
+
+d. Does it fall within the Confidence interval you created?  
+\newline
+```{r, echo = FALSE}
+# Clear the environment
+rm(list = ls())
+# Assign dir1 to the folder on your computer where this excel file is. 
+dir1 <- ("~/Desktop/DA Porfolio/Adv Stat R/Statistical Analysis")
+# Set the working directory to dir1
+setwd(dir1)
+# Problem 2
+# Generate a Normal Distribution with N = 3,000, Mean = 200,  and Std dev = 40
+# Set.seed = 6359
+set.seed(6359)
+Data2 <- rnorm(3000, mean = 200, sd = 40)
+# Round it off to 0 (make it integer)
+Data2 <- round(Data2, digits = 0)
+# Select a random sample of size n =  150 and set.seed = 6359
+set.seed(6359)
+Sample1 <- sample(Data2, size = 150, replace = FALSE)
+```
+Proportion of the numbers which are ≥ 215 with n = 150 (P-hat)
+```{r, echo = FALSE}
+# Find p-hat. Proportion of the numbers which are ≥ 215 with n = 150
+n = 150
+prop1 <- length(which(Sample1 >= 215))
+ # P-hat
+`p-hat` <- prop1 / n; `p-hat`
+```
+Standard Error
+```{r, echo = FALSE}
+# Calculate std error of the sample proportion
+`Standard Error` <- sqrt(`p-hat` * (1-`p-hat`) / n); `Standard Error`
+```
+Z-Score
+```{r, echo = FALSE}
+# Calculate the z-score for a Confidence level of 92.73%
+p1 <- 1 - (92.73 / 100)
+`Z-Score` <- qnorm(1 - p1/2); `Z-Score`
+```
+```{r, echo = FALSE}
+# Compute the confidence interval
+  # Find Margin Error
+`Margin Error` <- `Z-Score` * `Standard Error`
+```
+Confidence Interval
+```{r, echo = FALSE}
+  # Confidence Interval
+`UpperLimit` <- `p-hat` + `Margin Error`; `UpperLimit`
+`LowerLimit` <- `p-hat` - `Margin Error`; `LowerLimit`
+```
+Proportion of numbers ≥ 215 in the population with n = 3000 (P-hat)
+```{r, echo = FALSE}
+# Find p-hat. Actual proportion of numbers ≥ 215 in the population with n = 3000
+n1 = 3000
+prop2 <- length(which(Data2 >= 215))
+`p-hat actual` <- prop2 / n1; `p-hat actual`
+```
+Conclusion
+```{r, echo = FALSE}
+# Does it fall within the Confidence interval you created?  
+cat("Yes, it does fall within the Confidence Interval (0.4442, 0.3025)")
+```
+---
+
+**T-Test**	
+
+Automobile Insurance companies consider many factors including the miles driven by a driver and the gender. The data set consists of the reported miles (in thousands) driven by young drivers (25 years or less) in the previous year. One insurance company wants to know if there are any difference between the two genders.
+
+a. What are the Null and Alternate Hypothesis?
+
+b. Do a variance test to see if the two variances are equal.
+
+c. Do the appropriate t-test at a = 5%. What is your conclusion?
+\newline
+```{r, echo = FALSE}
+# Clear the environment
+rm(list = ls())
+# Assign dir1 to the folder on your computer where this excel file is. 
+dir1 <- ("~/Desktop/DA Porfolio/Adv Stat R/Statistical Analysis")
+# Set the working directory to dir1
+setwd(dir1)
+# Problem 3
+# Load readxl library
+library(readxl)
+# Read this excel file
+Prob3 <- read_excel("Example3.xlsx", sheet = "Prob3")
+```
+What are the Null and Alternate Hypothesis?
+
+  * Null is H0: No difference between Male and Female
+  
+  * Alternative is Ha: Difference between Male and Female
+```{r, echo = FALSE}
+# Do a variance test to see if the two variances are equal
+  # Filter the data set
+var1 <- which(Prob3$Gender == "Male")
+var2 <- which(Prob3$Gender == "Female")
+`Distance Male` <- Prob3$Distance[var1]
+`Distance Female` <- Prob3$Distance[var2]
+```
+Variance Test
+```{r, echo = FALSE}
+  # Variance test
+`Var-test` <- var.test(`Distance Male`, `Distance Female`, alternative = "two.sided"); `Var-test`
+  # Two variances are equal as the P-Value is larger than Alpha 0.05 and Fail the Reject Null
+cat("Two variances are equal as the P-Value is larger than Alpha = 0.05 and Fail to Reject Null hypothesis")
+```
+Appropriate t-test at a = 5%
+```{r, echo = FALSE}
+# Appropriate t-test at a = 5%.
+`T-test` <- t.test(`Distance Male`, `Distance Female`, alternative = "two.sided"); `T-test`
+# What is your conclusion?
+  # Fail to Reject null as the P-Value is larger than Alpha 0.05
+  # No difference between Male and Female
+cat("Fail to Reject Null hypothesis as the P-Value is larger than Alpha 0.05 and there are no difference between Male and Female")
+```
+---
+
+**Log Transformation**	
+
+You've picked up a bunch of rocks from a rocky beach and want to estimate the weight of all the rocks at the beach with a Confidence level of 93.47%.  
+
+a. Plot the qqline and boxplot of the data. Also get the skewness. What is your conclusion about the distribution being normal?	
+
+b. Do a log transformation and perform the steps in a. What's your conclusion? 
+Use Log transformed data for the following questions.
+
+c. What is the Mean, Std dev, and the Sample size?	
+
+d. Find Std error using.								
+
+e. Find the t-score for the 93.47% confidence interval.  	
+
+f. Use this t-score, sample mean, std error to get the upper and lower limit of the Confidence Interval. Use the formula we've discussed.  
+
+g. Do reverse transformation to get the Confidence Interval in Ounces.
+\newline
+```{r, echo = FALSE}
+# Clear the environment
+rm(list = ls())
+# Assign dir1 to the folder on your computer where this excel file is. 
+dir1 <- ("~/Desktop/DA Porfolio/Adv Stat R/Statistical Analysis")
+# Set the working directory to dir1
+setwd(dir1)
+# Load readxl library
+library(readxl)
+# Load moments library for function "skewness"
+library(moments)
+# Read this excel file
+Prob4 <- read_excel("Example3.xlsx", sheet = "Prob4")
+```
+Normal Q-Q Plot and Box Plot of Weight
+```{r, echo = FALSE}
+# Problem 4	
+# Plot the qqline
+  # Set graphical parameters
+  par(mfrow = c(1,2))
+qqnorm(Prob4$Weight)
+qqline(Prob4$Weight)
+# Plot box plot of the data
+  # Set graphical parameters
+  par(mfrow = c(1,3))
+boxplot(Prob4$Weight, main = "Problem 4 Box Plot")
+```
+Skewness
+```{r, echo = FALSE}
+# Get the skewness
+Skew <- skewness(Prob4$Weight); Skew
+```
+Conclusion about distribution being normal
+```{r, echo = FALSE}
+# Conclusion about the distribution being normal?
+  # The distribution is not normal as most of dots in the QQ Plot are not on a straight line
+  # Since median is closer to the bottom of the box, and whisker is shorter on the lower end then the distribution is positively skewed (skewed right)
+cat("The distribution is not normal as most of dots in the QQ Plot are not on a straight line")
+
+cat("Median is closer to bottom, whisker shorter lower. The distribution is positively skewed")
+```
+Log Transformation
+```{r, echo = FALSE}
+# Log transformation
+log1 <- log(Prob4$Weight); log1
+```
+Normal Q-Q Plot and Box Plot of Log Transformation
+```{r, echo = FALSE}
+# Perform the steps in a.
+# Plot the qqline
+  # Set graphical parameters
+  par(mfrow = c(1,2))
+qqnorm(log1)
+qqline(log1)
+# Plot box plot of the data
+  # Set graphical parameters
+  par(mfrow = c(1,3))
+boxplot(log1, main = "Problem 4.b Box Plot")
+```
+Skewness of log transformed data
+```{r, echo = FALSE}
+# Get the skewness
+Skew1 <- skewness(log1); Skew1
+```
+Conclusion about distribution being normal
+```{r, echo = FALSE}
+# What's your conclusion?
+  # The distribution is normal as most of dots in the QQ Plot are on a straight line
+  # Since median is closer to the top of the box, and whisker is shorter on the upper end then the distribution is negatively skewed (skewed left)
+cat("The distribution is normal as most of dots in the QQ Plot are on a straight line")
+
+cat("Median is closer to top, whisker shorter at upper, the distribution is negatively skewed")
+```
+Log Transformed data
+```{r, echo = FALSE}
+# Use Log transformed data for the following questions.	
+# What is the mean, Std dev, and the sample size?
+```
+n
+```{r, echo = FALSE}
+  # N
+n <- length(log1); n
+```
+Mean
+```{r, echo = FALSE}
+  # Mean
+m <- mean(log1); m
+```
+Standard Deviation
+```{r, echo = FALSE}
+  # Std Dev
+s <- sd(log1); s
+```
+Standard Error
+```{r, echo = FALSE}
+# Find std error using the std error formula we've discussed
+sx_bar <- s / sqrt(n); sx_bar
+```
+T-score
+```{r, echo = FALSE}
+# Find the t-score for the 93.47% confidence interval
+`t-score` <- m / sx_bar; `t-score`
+```
+```{r, echo = FALSE}
+# Get the upper and lower limit of the Confidence Interval. Use the formula we've discussed.  
+# Find critical
+p1 <- 1 - (93.47/100)
+Critical <- qt(p1/2, n-1, lower.tail = FALSE)
+```
+Upper and Lower Limit
+```{r, echo = FALSE}
+# Upper and Lower limit.
+`UpperLimit` <- m + Critical * sx_bar; `UpperLimit`
+`LowerLimit` <- m - Critical * sx_bar; `LowerLimit`
+```
+Confidence Interval in Ounces using Reverse Transformation
+```{r, echo = FALSE}
+# Reverse transformation to get the Confidence Interval in Ounces
+`ReverseUpperLimit` <- exp(`UpperLimit`); `ReverseUpperLimit`
+`ReverseLowerLimit` <- exp(`LowerLimit`); `ReverseLowerLimit`
+```
