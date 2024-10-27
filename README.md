@@ -24,4 +24,4 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 ### Certifications:
 Holds certifications in Alteryx, AWS Machine Learning, and AWS Cloud Practitioner.
 
-### Please access the project files through the Personal Project folder
+### Access different project files through Personal Projects folder
