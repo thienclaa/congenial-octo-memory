@@ -20,6 +20,8 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - Conducting market research and statistical analysis to discover patterns and trends
 - Developing Key Performancee Indicators (KPIs) and reports for strategic decision-making
 - Collaborating with cross-functional teams in Agile environments
-
+  
 ### Certifications:
 Holds certifications in Alteryx, AWS Machine Learning, and AWS Cloud Practitioner.
+
+### Please access the project files through the Personal Project folder
