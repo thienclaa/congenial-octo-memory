@@ -5,7 +5,7 @@
 A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
 
 ### Data Analytics Tools:
-- ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-FFD700?style=for-the-badge&logo=python&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/-Tableau-CC6699?style=flat-square&logo=tableau&logoColor=white)
