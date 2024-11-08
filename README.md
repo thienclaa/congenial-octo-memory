@@ -22,7 +22,13 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - Collaborating with cross-functional teams in Agile environments
   
 ### Certifications:
-Holds certifications in Alteryx, AWS Machine Learning, and AWS Cloud Practitioner.
+Holds certifications in
+Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
+Amazon Web Services Machine Learning
+Amazon Web Services Cloud Practitioner
+Alteryx Foundation Micro-Credential
+Alteryx Machine Learning Fundamentals Micro-Credential
+
 
 ### Access project files through the following link:
 https://github.com/thienclaa/congenial-octo-memory/tree/31c0b239b806f8c6d76d6ccf37fa694c314a8478/Personal%20Projects
