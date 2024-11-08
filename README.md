@@ -2,7 +2,7 @@
 
 ## Hi, I'm Lucky.
 
-A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics with a diverse background in business decisions and operations analytics, healthcare analytics and marketing analytics.
+A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
 
 ### Data Analytics Tools:
 - ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white)
