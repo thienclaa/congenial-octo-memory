@@ -22,12 +22,11 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - Collaborating with cross-functional teams in Agile environments
   
 ### Certifications:
-Holds certifications in
-Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
-Amazon Web Services Machine Learning
-Amazon Web Services Cloud Practitioner
-Alteryx Foundation Micro-Credential
-Alteryx Machine Learning Fundamentals Micro-Credential
+- Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
+- Amazon Web Services Machine Learning
+- Amazon Web Services Cloud Practitioner
+- Alteryx Foundation Micro-Credential
+- Alteryx Machine Learning Fundamentals Micro-Credential
 
 
 ### Access project files through the following link:
