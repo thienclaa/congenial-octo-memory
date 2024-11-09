@@ -15,7 +15,7 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 ### Experienced in:
 
 - Data collection, preparation, and exploratory using tools like Python, R, and SQL and data visualization using tools like Tableau and MS Power BI.
-- Developing data model and databases for data management using SQL
+- Developing data models and databases for data management using SQL
 - Implementing Machine Learning models for User and Entity Behavior Analytics
 - Conducting market research and statistical analysis to discover patterns and trends
 - Developing Key Performancee Indicators (KPIs) and reports for strategic decision-making
