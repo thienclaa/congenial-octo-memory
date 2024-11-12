@@ -17,7 +17,7 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-FFCA28?style=flat-square&logo=powerbi)
 ### Big Data
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&Color=white)
-- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-sqaure&logo=apachespark&logoColor=#E35A16)
 
 ### Experienced In
 - Data collection, preparation, and exploratory using tools like Python, R, and SQL and data visualization using tools like Tableau and MS Power BI.
