@@ -5,11 +5,15 @@
 A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
 
 ### Data Analytics Tools
-- ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-suqare&logo=python&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
-- ![Tableau](https://img.shields.io/badge/-Tableau-CC6699?style=flat-square&logo=tableau&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-suqare&logo=python&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![Tableau](https://img.shields.io/badge/-Tableau-CC6699?style=flat-square&logo=tableau&logoColor=white)
+- ![PowerBI](https://img.shields.io/badge/-PowerBI-CC6699?style=flat-square&logo=powerbi&logoColor=yellow)
+
+
+### Big Data Tools
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&Color=white)
 
 ### Experienced In
