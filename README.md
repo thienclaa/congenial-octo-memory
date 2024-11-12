@@ -4,7 +4,7 @@
 ### Hi, I'm Lucky.
 A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
 
-### Data Analytics Tools
+### Data Analytics
 - ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-2496ED?style=flat-square&logo=sql&logoColor=white)
 - ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -14,8 +14,8 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ### Data Visualization
 - ![Tableau](https://img.shields.io/badge/-Tableau-CC6699?style=flat-square&logo=tableau&logoColor=white)
-- ![PowerBI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-suqare&logo=powerbi&logoColor=white)
-### Big Data Tools
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+### Big Data
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&Color=white)
 
 ### Experienced In
