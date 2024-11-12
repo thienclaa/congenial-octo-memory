@@ -10,7 +10,7 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-suqare&logo=python&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/-Tableau-CC6699?style=flat-square&logo=tableau&logoColor=white)
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-CC6699?style=flat-square&logo=powerbi&logoColor=yellow)
-- ![PowerBI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-suqare&logo=python&logoColor=white)
+- ![PowerBI](https://img.shields.io/badge/-PowerBI-FFD700?style=flat-suqare&logo=mspowerbi&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
