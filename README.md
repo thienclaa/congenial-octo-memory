@@ -14,7 +14,6 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&Color=white)
 
 ### Experienced In
-
 - Data collection, preparation, and exploratory using tools like Python, R, and SQL and data visualization using tools like Tableau and MS Power BI.
 - Developing data models and databases for data management using SQL
 - Implementing Machine Learning models for User and Entity Behavior Analytics
@@ -23,7 +22,6 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - Collaborating with cross-functional teams in Agile environments
   
 ### Certifications
-
 - Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
 - Amazon Web Services Machine Learning
 - Amazon Web Services Cloud Practitioner
@@ -32,4 +30,4 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 
 
 ### Portfolio
-Check out the projects section for more hands-on examples
+- Check out the projects section for more hands-on examples
