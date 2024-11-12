@@ -5,8 +5,8 @@
 A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
 
 ### Data Analytics
-- ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-F05032?style=flat-square&logo=sql&logoColor=white)
+- ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
 - ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-suqare&logo=python&logoColor=white)
 ### Databases
@@ -17,7 +17,7 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-FFCA28?style=flat-square&logo=powerbi)
 ### Big Data
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&Color=white)
-- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+- ![ApacheSpark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
 ### Experienced In
 - Data collection, preparation, and exploratory using tools like Python, R, and SQL and data visualization using tools like Tableau and MS Power BI.
