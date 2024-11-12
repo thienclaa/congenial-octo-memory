@@ -1,10 +1,11 @@
-# Welcome to Congenial Octo Memory
+## Welcome to Congenial Octo Memory
 
-## Hi, I'm Lucky.
+## Getting Started
+### Hi, I'm Lucky.
 
 A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
 
-### Data Analytics Tools:
+### Data Analytics Tools
 - ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-suqare&logo=python&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
@@ -12,7 +13,7 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&Color=white)
 
-### Experienced in:
+### Experienced In
 
 - Data collection, preparation, and exploratory using tools like Python, R, and SQL and data visualization using tools like Tableau and MS Power BI.
 - Developing data models and databases for data management using SQL
@@ -21,7 +22,8 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - Developing Key Performancee Indicators (KPIs) and reports for strategic decision-making
 - Collaborating with cross-functional teams in Agile environments
   
-### Certifications:
+### Certifications
+
 - Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
 - Amazon Web Services Machine Learning
 - Amazon Web Services Cloud Practitioner
@@ -29,5 +31,5 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - Alteryx Machine Learning Fundamentals Micro-Credential
 
 
-### Access project files through the following link:
-https://github.com/thienclaa/congenial-octo-memory/tree/31c0b239b806f8c6d76d6ccf37fa694c314a8478/Personal%20Projects
+### Portfolio
+Check out the projects section for more hands-on examples
