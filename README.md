@@ -2,7 +2,6 @@
 
 ## Getting Started
 ### Hi, I'm Lucky.
-
 A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
 
 ### Data Analytics Tools
@@ -30,4 +29,4 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 
 
 ### Portfolio
-- Check out the projects section for more hands-on examples
+- Check out the [projects](https://github.com/thienclaa/congenial-octo-projects) section for more hands-on examples
