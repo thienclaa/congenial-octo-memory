@@ -16,7 +16,7 @@
 
 ### [Descriptive Analytics](https://github.com/thienclaa/congenial-octo-memory/tree/main/Personal%20Projects/SQL)
 
-  -  Define Problem: Building a data model and creating a physical relational database. Loading data into the database and performing SQL queries using MySQL for data preparation and data exploratory.
+  -  Define Problem: Taproot Foundation connects nonprofits and social change organizations with passionate business professionals who share their expertise pro bono. Dataset was used to evaluate the results of nonprofit projects to identify the outcomes, the match rates and the duration of projects as well as other relevant statistics.
  
   - Data Collection: Dataset is available on Kaggle. Dataset contains 1000 rows and 15 columns of the supermarket performance from 3 cites in Q1 of 2019.
 
