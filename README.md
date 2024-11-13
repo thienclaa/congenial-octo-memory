@@ -36,4 +36,4 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 
 
 ### Portfolio
-- Check out the [projects](https://github.com/thienclaa/congenial-octo-projects) section for more hands-on examples
+- Check out the [projects](Projects.md) section for more hands-on examples
