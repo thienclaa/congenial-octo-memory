@@ -1,6 +1,5 @@
 ## Welcome to Congenial Octo Memory
 
-## Getting Started
 ### Hi, I'm Lucky.
 A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics from University of Texas at Dallas with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
 
