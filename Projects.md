@@ -16,7 +16,7 @@
 
 ### [Descriptive Analytics](https://github.com/thienclaa/congenial-octo-memory/tree/main/Personal%20Projects/SQL)
 
-  -  Define Problem: Taproot Foundation connects nonprofits and social change organizations with passionate business professionals who share their expertise pro bono. Dataset was used to evaluate the results of nonprofit projects to identify the outcomes, the match rates and the duration of projects as well as other relevant statistics.
+  -  Define Problem: Taproot Foundation connects nonprofits and social change organizations with passionate professionals who share their expertise pro bono. Dataset was used to evaluate the results of nonprofit projects to identify the outcomes, the match rates and the duration of projects as well as other relevant statistics.
  
   - Data Collection: Datasets are collected from Taproot's terradata files. I will be using 4 different datasets for the project.
 
