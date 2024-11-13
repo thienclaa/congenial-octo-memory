@@ -28,4 +28,4 @@
     - Which project types take the longest to complete?
     - Which project types take the shortest to complete?
       
-  - Communication of insights: Power
+  - Communication of insights: Power BI
