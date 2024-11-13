@@ -1,6 +1,6 @@
-## Projects
+## SQL
 
-#### [Descriptive Analytics](https://github.com/thienclaa/congenial-octo-memory/tree/main/Personal%20Projects/SQL)
+### [Descriptive Analytics](https://github.com/thienclaa/congenial-octo-memory/tree/main/Personal%20Projects/SQL)
 
   -  Define Problem: Building a data model and creating a physical relational database. Loading data into the database and performing SQL queries using MySQL for data preparation and data exploratory.
  
