@@ -24,7 +24,7 @@
 
   - Data Exploratory: The questions were most pertinent to the organization when deciding where to focus potential volunteer efforts. For example, identifying a project type that is chronically underperforming or under matched compared to other project types could signify a need to broaden the pool of volunteer talent in that area. 
     - Which project types produce the best outcomes in the survey data?
-    - Which project types perform better on the platform? Match rate, days to match, # of inquiries received etc.
+    - Which project types perform better on the platform? Match rate, days to match, number of inquiries received.
     - Which project types take the longest to complete?
     - Which project types take the shortest to complete?
       
