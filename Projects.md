@@ -27,7 +27,7 @@
       
     - Percentage of projects that succeeded
       
-    - Average days to project completion (could be due to cancellation or time out of the project or actual matching and completion of project)
+    - Average days to project completion (could be due to cancellation or actual matching and completion of project)
     - Average days to volunteer match to project
       
     - Number of volunteer inquiries by project type
