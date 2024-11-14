@@ -33,3 +33,23 @@
     - Number of volunteer inquiries by project type
       
   - Communication of insights: Power BI
+
+### [Descriptive Analytics](https://github.com/thienclaa/congenial-octo-memory/tree/main/Personal%20Projects/SQL)
+
+  -  Define Problem: The dataset for this assignment is obtained from Instacart, an electronic commerce grocery ordering and delivery organization. The dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. The dataset contains details about the orders placed by various users, the sequence of products purchased in each order, the week and hour of day the order was placed, and a relative measure of time between orders. It also has information about the aisle and department for the sold products.
+ 
+  - Data Collection: Datasets are collected from Taproot's terradata files. I'm using 4 different datasets for the project.
+
+  - Data Preparation: Data is already fairly well structured but required some manipulation to get the necessary format for the project.
+
+  - Data Exploratory: Insights are most pertinent to the organization when deciding where to focus potential volunteer efforts.
+    - Percentage of volunteer inquiries that failed to be selected
+      
+    - Percentage of projects that succeeded
+      
+    - Average days to project completion (could be due to cancellation or actual matching and completion of project)
+    - Average days to volunteer match to project
+      
+    - Number of volunteer inquiries by project type
+      
+  - Communication of insights: Tableau
