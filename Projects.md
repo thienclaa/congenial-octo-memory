@@ -2,9 +2,9 @@
 
 ### [Descriptive Analytics](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/MySQL%20RDMBS%20&%20Analysis)
 
-  -  Define Problem: Building a data model and creating a physical relational database. Loading data into the database and performing SQL queries using MySQL for data preparation and data exploratory.
+  -  Define Problem: Building a data model and creating a physical relational database. Performing SQL queries using MySQL for data exploratory.
  
-  - Data Collection: Datasets are available on Kaggle. Datasets contains 1000 rows and 15 columns of the supermarket performance from 3 cites in Q1 of 2019.
+  - Data Collection: Datasets are available on Kaggle. Datasets contains 1000 rows and a total of 15 columns of the supermarket sale performance from 3 cites in Q1 of 2019.
 
   - Data Preparation: Data format is correctly identifying in the data model and no missing values or duplicate rows.
 
