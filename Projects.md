@@ -6,7 +6,7 @@
  
   - Data Collection: Datasets are available on Kaggle. Datasets contains 1000 rows and a total of 15 columns of the supermarket sale performance from 3 cites in Q1 of 2019.
 
-  - Data Preparation: Data format is correctly identifying in the data model and no missing values or duplicate rows.
+  - Data Preparation: Data format is correctly identifying in the data model and there's no missing values or duplicates.
 
   - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
 
