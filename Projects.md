@@ -24,9 +24,9 @@
     
 ### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
 
-  -  Define Problem: Execute SQL queries for data preparation and data exploratory to answer descriptive analytics questions to understand historical data and patterns in a School Scheduling System.
+  -  Define Problem: Execute SQL queries for data preparation and data exploratory to understand historical data and patterns of a school scheduling system.
  
-  - Data Collection: Datasets are collected from internal sources. Datasets contains over 500,000 information of educational institution's students, classes, faculty, staff, buildings, departments, subjects, majors and categories that are stored in 21 different tables.
+  - Data Collection: Datasets are collected from internal sources. Datasets contains over 500,000 information of a educational institution's students, classes, faculty, staff, buildings, departments, subjects, majors and categories, etc. that are stored in 21 tables.
 
   - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
     
@@ -34,23 +34,23 @@
     
 ### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
 
-  -  Define Problem: Execute SQL queries for data preparation and data exploratory to address descriptive analytics questions to understand historical data and patterns in an Entertainment Agency company.
+  -  Define Problem: Execute SQL queries for data preparation and data exploratory to address descriptive analytics questions in understanding historical data of an entertainment agency company.
  
-  - Data Collection: Datasets are collected from internal sources. Datasets contains over 500,000 information of educational institution's students, classes, faculty, staff, buildings, departments, subjects, majors and categories that are stored in 21 different tables.
+  - Data Collection: Datasets are collected from internal sources. Datasets contains over 100,000 information of an entertainment agency's agents, customers, engagements, entertainers, members, musical preferences and musical styles, etc. that are stored in 13 tables.
 
-  - Data Preparation: Data format is correctly identifying in the data model and there's no missing values or duplicates.
+  - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
 
-  - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
+  - Data Exploratory: Employee Analysis, Engagement Analysis and Customer Behavior Analysis.
     
-### [Descriptive Analytics - Restaurant Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
+### [Descriptive Analytics - Restaurant Food Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
 
-  -  Define Problem: Building a data model and creating a physical relational database. Performing SQL queries using MySQL for data exploratory.
+  -  Define Problem: Perform SQL queries for data exploratory to explore descriptive analytics questions of a restaurant in creating food recipes.
  
-  - Data Collection: Datasets are available on Kaggle. Datasets contains 1000 rows and a total of 15 columns of the supermarket sale performance from 3 cites in Q1 of 2019.
+  - Data Collection: Datasets are collected from internal sources. Datasets contains over 10,000 information of a restaurant's ingredient classes, ingredients, measurements, recipe classes, recipe ingredients and recipes that are stored in 6 different tables.
 
-  - Data Preparation: Data format is correctly identifying in the data model and there's no missing values or duplicates.
+  - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
 
-  - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
+  - Data Exploratory: Recipe Analysis and Ingredient Analysis.
     
 ## Python
 
