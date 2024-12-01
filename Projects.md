@@ -36,7 +36,7 @@
 
   -  Define Problem: Execute SQL queries for data preparation and data exploratory to address descriptive analytics questions in understanding historical data of an entertainment agency company.
  
-  - Data Collection: Datasets are collected from internal sources. Datasets contains over 100,000 information of an entertainment agency's agents, customers, engagements, entertainers, members, musical preferences and musical styles, etc. that are stored in 13 tables.
+  - Data Collection: Datasets are collected from internal sources. Datasets contains over 200,000 information of an entertainment agency's agents, customers, engagements, entertainers, members, musical preferences and musical styles, etc. that are stored in 13 tables.
 
   - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
 
@@ -46,7 +46,7 @@
 
   -  Define Problem: Perform SQL queries for data exploratory to explore descriptive analytics questions of a restaurant in creating food recipes.
  
-  - Data Collection: Datasets are collected from internal sources. Datasets contains over 10,000 information of a restaurant's ingredient classes, ingredients, measurements, recipe classes, recipe ingredients and recipes that are stored in 6 different tables.
+  - Data Collection: Datasets are collected from internal sources. Datasets contains over 70,000 information of a restaurant's ingredient classes, ingredients, measurements, recipe classes, recipe ingredients and recipes that are stored in 6 different tables.
 
   - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
 
