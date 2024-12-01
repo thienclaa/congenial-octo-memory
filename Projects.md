@@ -2,23 +2,23 @@
 
 ### [Descriptive Analytics - Market Basket Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Market%20Basket%20Analysis)
 
-  -  Define Problem: The dataset is obtained from Instacart, an electronic commerce grocery ordering and delivery organization. The dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. The dataset contains details about the orders placed by various users, the sequence of products purchased in each order, the week and hour of day the order was placed, and a relative measure of time between orders. It also has information about the aisle and department for the sold products.
+  -  Define Problem: Create a data model and build a physical relational database for data storage and management in MySQL. Perform SQL queries for data preparation and data exploratory. Visualize key insights using dashboards in Tableau.
  
-  - Data Collection: Dataset is obtained from Instacart. Dataset contains over 3 million grocery orders from more than 200,000 users.
+  - Data Collection: Datasets are obtained from Instacart, an electronic commerce grocery ordering and delivery organization. Datasets contains over 3 million grocery orders from more than 200,000 users consist details about the orders placed by various users, the sequence of products purchased in each order, the week and hour of day the order was placed. It also has information about the aisle and department for the sold products.
 
-  - Data Preparation: Data is already fairly well structured but required some manipulation to get the necessary format for the project.
+  - Data Preparation: Datasets are well structured but required some data manipulation to remove empty strings, unnecessary values and assign necessary format for variables.
 
-  - Data Exploratory: Insights are most pertinent to the organization when deciding where to focus potential volunteer efforts.
+  - Data Exploratory: Product Analysis, Customer Segmentation Analysis and Trends Analysis.
       
-  - Communication of insights: Tableau
+  - Communication of insights: Tableau dashboards.
     
 ### [Descriptive Analytics - Superstore Sales](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
 
-  -  Define Problem: Building a data model and creating a physical relational database. Performing SQL queries using MySQL for data exploratory.
+  -  Define Problem: Create a data model and build a relational database in MySQL. Perform SQL queries for data exploratory.
  
-  - Data Collection: Datasets are available on Kaggle. Datasets contains 1000 rows and a total of 15 columns of the supermarket sale performance from 3 cites in Q1 of 2019.
+  - Data Collection: Datasets are available on Kaggle. Datasets contains 1000 rows and a total of 15 columns of supermarket sales performance from 3 different cites in Q1 of 2019.
 
-  - Data Preparation: Data format is correctly identifying in the data model and there's no missing values or duplicates.
+  - Data Preparation: Format of the dataset is correctly identified when creating a data model and there's also no missing values or duplicates to be removed or replaced.
 
   - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
     
