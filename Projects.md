@@ -33,10 +33,8 @@
   - Data Preparation: Data format is correctly identifying in the data model and there's no missing values or duplicates.
 
   - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
-
-  - Communication of insights: Tableau
     
-    ### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
+### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
 
   -  Define Problem: Building a data model and creating a physical relational database. Performing SQL queries using MySQL for data exploratory.
  
@@ -45,10 +43,8 @@
   - Data Preparation: Data format is correctly identifying in the data model and there's no missing values or duplicates.
 
   - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
-
-  - Communication of insights: Tableau
     
-    ### [Descriptive Analytics - Restaurant Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
+### [Descriptive Analytics - Restaurant Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
 
   -  Define Problem: Building a data model and creating a physical relational database. Performing SQL queries using MySQL for data exploratory.
  
@@ -57,8 +53,6 @@
   - Data Preparation: Data format is correctly identifying in the data model and there's no missing values or duplicates.
 
   - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
-
-  - Communication of insights: Tableau
     
 ## Python
 
