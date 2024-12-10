@@ -70,9 +70,11 @@
   - Communication of insights: Python data visualization libraries.
     
 #### Others
-- ##### [Data Preparation - Crowd Sourced Grocery Prices](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
+- ##### [Data Preparation - Crowd Sourced Grocery Prices Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
     
-- ##### [Data Preparation - U.S. Largest Cities](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
+- ##### [Data Preparation - U.S.Largest Cities Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
+  
+- ##### [Data Visualization - U.S.Covid-19 Mortality Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Visualization)
   
 ## Tableau
 
