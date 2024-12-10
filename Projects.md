@@ -43,14 +43,6 @@
   - Data Exploratory: Employee Analysis, Engagement Analysis and Customer Behavior Analysis.
     
 ### [Descriptive Analytics - Restaurant Food Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
-
-  -  Define Problem: Perform SQL queries for data exploratory to explore descriptive analytics questions of a restaurant in creating food recipes.
- 
-  - Data Collection: Datasets are collected from internal sources. Datasets contains over 70,000 information of a restaurant's ingredient classes, ingredients, measurements, recipe classes, recipe ingredients and recipes that are stored in 6 different tables.
-
-  - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
-
-  - Data Exploratory: Recipe Analysis and Ingredient Analysis.
     
 ## Python
 
