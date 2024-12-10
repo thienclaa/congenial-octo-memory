@@ -32,17 +32,9 @@
     
   - Data Exploratory: Datasets are purposely collected and used by school administrators for Management Analysis and School Administration Analysis.
     
-### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/blob/main/SQL/Entertainment%20Agency%20Analysis/EntertainmentAgency_Analysis.sql)
-
-  -  Define Problem: Execute SQL queries for data preparation and data exploratory to address descriptive analytics questions in understanding historical data of an entertainment agency company.
- 
-  - Data Collection: Datasets are collected from internal sources. Datasets contains over 200,000 information of an entertainment agency's agents, customers, engagements, entertainers, members, musical preferences and musical styles, etc. that are stored in 13 tables.
-
-  - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
-
-  - Data Exploratory: Employee Analysis, Engagement Analysis and Customer Behavior Analysis.
+### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Entertainment%20Agency%20Analysis)
     
-### [Descriptive Analytics - Restaurant Food Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
+### [Descriptive Analytics - Restaurant Food Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Food%20Recipe%20Analysis)
     
 ## Python
 
