@@ -32,9 +32,10 @@
     
   - Data Exploratory: Datasets are purposely collected and used by school administrators for Management Analysis and School Administration Analysis.
     
-### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Entertainment%20Agency%20Analysis)
+### Others
+#### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Entertainment%20Agency%20Analysis)
     
-### [Descriptive Analytics - Restaurant Food Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Food%20Recipe%20Analysis)
+#### [Descriptive Analytics - Restaurant Food Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Food%20Recipe%20Analysis)
     
 ## Python
 
