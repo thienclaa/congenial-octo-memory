@@ -22,7 +22,7 @@
 
   - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
     
-### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
+### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/School%20Scheduling%20Analysis)
 
   -  Define Problem: Execute SQL queries for data preparation and data exploratory to understand historical data and patterns of a school scheduling system.
  
