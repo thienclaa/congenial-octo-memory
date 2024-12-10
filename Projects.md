@@ -32,7 +32,7 @@
     
   - Data Exploratory: Datasets are purposely collected and used by school administrators for Management Analysis and School Administration Analysis.
     
-### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
+### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/blob/main/SQL/Entertainment%20Agency%20Analysis/EntertainmentAgency_Analysis.sql)
 
   -  Define Problem: Execute SQL queries for data preparation and data exploratory to address descriptive analytics questions in understanding historical data of an entertainment agency company.
  
