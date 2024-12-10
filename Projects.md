@@ -26,7 +26,7 @@
 
   -  Define Problem: Execute SQL queries for data preparation and data exploratory to understand historical data and patterns of a school scheduling system.
  
-  - Data Collection: Datasets are collected from internal sources. Datasets contains over 500,000 information of a educational institution's students, classes, faculty, staff, buildings, departments, subjects, majors and categories, etc. that are stored in 21 tables.
+  - Data Collection: Datasets are collected from internal sources. Datasets contains over 300,000 information of a educational institution's students, classes, faculty, staff, buildings, departments, subjects, majors and categories, etc. that are stored in 21 tables.
 
   - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
     
@@ -57,18 +57,23 @@
       
   - Communication of insights: Tableau dashboard.
 
-### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
+### [Descriptive Analytics - Employee Performance Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Performance%20Analytics)
 
-  -  Define Problem: Building a data model and creating a physical relational database. Performing SQL queries using MySQL for data exploratory.
+  -  Define Problem: ZTCS, a technology company specializes in providing computer solution. ZTCS wants to improve and expand it's IT Helpdesk department capabilites by analyzing how well an employee is contributing to an organization's projects. It can also help identify areas for improvement, support data-driven decisions, and align individual performance with organizational success.
  
-  - Data Collection: Datasets are available on Kaggle. Datasets contains 1000 rows and a total of 15 columns of the supermarket sale performance from 3 cites in Q1 of 2019.
+  - Data Collection: Datasets are extracted from both on-premise and cloud data warehouse. Datasets contains over 300,000 tickets from more than 100 employees consist details about tickets created by various employees from 2019 - 2024.
+    
+  - Data Preparation: Datasets aren't well structured and the format of some variables aren't correctly identified. There're also many missing values that need to be replaced or cleaned. All of the datasets are following the ELT framework which is a data integration process that involves extracting, loading, and then transforming.
 
-  - Data Preparation: Data format is correctly identifying in the data model and there's no missing values or duplicates.
-
-  - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
-
-  - Communication of insights: Tableau
-
+  - Data Exploratory: Response Time Analysis, Resolution Time Analysis, Time Serise Analysis and Category Analysis.
+  
+  - Communication of insights: Python data visualization libraries.
+    
+#### Others
+- ##### [Data Preparation - Crowd Sourced Grocery Prices](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
+    
+- ##### [Data Preparation - U.S. Largest Cities](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
+  
 ## Tableau
 
 ### [Prescriptive Analytics](https://github.com/thienclaa/congenial-octo-memory/tree/main/Personal%20Projects/SQL)
