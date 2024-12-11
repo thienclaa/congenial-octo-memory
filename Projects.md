@@ -78,9 +78,13 @@
 
  ## R
 
-### [Prescriptive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
+### [Statistical Analytics - Panel Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Applied%20Econometrics/Panel%20Analysis.pdf)
 
-### [Prescriptive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
+### [Statistical Methods](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Statistical%20Methods/T-Test.pdf)
+
+### [Predictive Analytics - Car Prices](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Car%20Prices%20Linear.pdf)
+
+### [Predictive Analytics - Loan Offer](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Loan%20Offer%20Logistic.pdf)
 
 ## Machine Learning
 
