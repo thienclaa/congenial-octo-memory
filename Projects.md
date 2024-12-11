@@ -80,19 +80,20 @@
  
 #### [Statistical Methods](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Statistical%20Methods/T-Test.pdf)
 
-#### [Statistical Analytics - Panel Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Applied%20Econometrics/Panel%20Analysis.pdf)
+#### [Statistical Analytics - Panel Data Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Applied%20Econometrics/Panel%20Analysis.pdf)
 
-#### [Predictive Analytics - Car Prices](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Car%20Prices%20Linear.pdf)
+#### [Predictive Analytics - Car Prices Prediction](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Car%20Prices%20Linear.pdf)
 
 #### [Predictive Analytics - Loan Offer](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Loan%20Offer%20Logistic.pdf)
 
 ## Machine Learning
 
-#### [Prescriptive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
+#### [Predictive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
 
-#### [Prescriptive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
+#### [Predictive Analytics - Small Business Administration Loan Approved or Denied](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/U.S.%20Small%20Business%20Administration)
 
-## Tableau
+#### [Predictive Analytics - Car Prices Prediction](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Linear%20Models%20Car%20Prices)
 
-### [Prescriptive Analytics](https://github.com/thienclaa/congenial-octo-memory/tree/main/Personal%20Projects/SQL)
+#### [Predictive Analytics - Model Hyper-Parameters Optimization](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Diabetes%20Binary%20Health%20Indicators)
+
 
