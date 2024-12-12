@@ -25,7 +25,7 @@ A former Junior Data Analyst professional at Zenitech CS and a Master's Graduate
 - Developing data model and building RDBMS for data storage and management.
 - Implementing Machine Learning models for different Predictive Analytics problems.
 - Conducting market research and statistical analysis to discover patterns and relationships.
-- Developing Key Performancee Indicators (KPIs) and reports for strategic decision-making.
+- Developing Key Performancee Indicators (KPIs), metrics and reports for strategic decision-making.
 - Collaborating with cross-functional teams in Agile environments.
   
 ### Certifications
