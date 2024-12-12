@@ -19,8 +19,9 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 - ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-sqaure&logo=apachespark&logoColor=#E35A16)
 
 ### Experienced In
-- Data collection, preparation, and exploratory using tools like Python, R, and SQL
-- Data visualization using tools like Tableau and MS Power BI.
+- ETL/ELT frameworkds.
+- Data collection, preparation, and exploratory using Python, R, and SQL
+- Data visualization using Tableau and MS Power BI.
 - Developing data model and building RDBMS for data storage and management.
 - Implementing Machine Learning models for different Predictive Analytics problems.
 - Conducting market research and statistical analysis to discover patterns and relationships.
