@@ -1,7 +1,7 @@
 ## Welcome to Congenial Octo Memory
 
 ### Hi, I'm Lucky.
-A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics from University of Texas at Dallas with a diverse background in business decisions and operations analytics, healthcare analytics and sport marketing analytics.
+A former Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics from University of Texas at Dallas with a diverse background in Business Decision Analytics, Operational Analytics, Product Development Analytics and Digital Marketing Analytics in Sports.
 
 ### Data Analytics
 - ![SQL](https://img.shields.io/badge/-SQL-F05032?style=flat-square&logo=sql&logoColor=white)
@@ -21,11 +21,11 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 ### Experienced In
 - Data collection, preparation, and exploratory using tools like Python, R, and SQL
 - Data visualization using tools like Tableau and MS Power BI.
-- Developing data models and databases for data management using SQL
-- Implementing Machine Learning models for User and Entity Behavior Analytics
-- Conducting market research and statistical analysis to discover patterns and trends
-- Developing Key Performancee Indicators (KPIs) and reports for strategic decision-making
-- Collaborating with cross-functional teams in Agile environments
+- Developing data model and building RDBMS for data storage and management.
+- Implementing Machine Learning models for different Predictive Analytics problems.
+- Conducting market research and statistical analysis to discover patterns and relationships.
+- Developing Key Performancee Indicators (KPIs) and reports for strategic decision-making.
+- Collaborating with cross-functional teams in Agile environments.
   
 ### Certifications
 - Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
@@ -36,4 +36,4 @@ A former Data Analyst professional at Zenitech CS and a Master's Graduate in Bus
 
 
 ### Portfolio
-- Check out the [projects](Projects.md) section for more hands-on examples
+- Check out the [projects](Projects.md) section for hands-on works.
