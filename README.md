@@ -35,6 +35,5 @@ A former Junior Data Analyst professional at Zenitech CS and a Master's Graduate
 - Alteryx Foundation Micro-Credential
 - Alteryx Machine Learning Fundamentals Micro-Credential
 
-
 ### Portfolio
-- Check out the [projects](Projects.md) section for hands-on works.
+- Check out the [PROJECTS](Projects.md) section for hands-on works.
