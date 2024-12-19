@@ -96,4 +96,6 @@
 
 #### [Predictive Analytics - Model Hyper-Parameters Optimization](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Diabetes%20Binary%20Health%20Indicators)
 
+## Tableau
 
+#### [Descriptive Analytics - Supercenter](https://github.com/thienclaa/congenial-octo-projects/tree/main/Tableau/Supercenter)
