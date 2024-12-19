@@ -17,11 +17,14 @@ A former Junior Data Analyst professional at Zenitech CS and a Master's Graduate
 ### Big Data
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&Color=white)
 - ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-sqaure&logo=apachespark&logoColor=#E35A16)
-
+  
+### Portfolio
+- Check out the [PROJECTS](Projects.md) section for hands-on works.
+  
 ### Experienced In
 - ETL/ELT frameworkds.
 - Data collection, preparation, and exploratory using Python, R, and SQL
-- Data visualization using Tableau and MS Power BI.
+- Data visualization using Tableau, Power BI, Looker Studio.
 - Developing data model and building RDBMS for data storage and management.
 - Implementing Machine Learning models for different Predictive Analytics problems.
 - Conducting market research and statistical analysis to discover patterns and relationships.
@@ -35,5 +38,4 @@ A former Junior Data Analyst professional at Zenitech CS and a Master's Graduate
 - Alteryx Foundation Micro-Credential
 - Alteryx Machine Learning Fundamentals Micro-Credential
 
-### Portfolio
-- Check out the [PROJECTS](Projects.md) section for hands-on works.
+
