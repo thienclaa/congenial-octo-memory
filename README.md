@@ -22,13 +22,13 @@ A former Junior Data Analyst professional at Zenitech CS and a Master's Graduate
 - Check out the [PROJECTS](Projects.md) section for hands-on works.
   
 ### Experienced In
-- ETL/ELT frameworkds.
+- Python ETL/ELT frameworks.
 - Data collection, preparation, and exploratory using Python, R, and SQL
-- Data visualization using Tableau, Power BI, Looker Studio.
-- Developing data model and building RDBMS for data storage and management.
+- Data visualization as report and dashboard using Tableau, Power BI, Looker Studio.
+- Developing data model and building database management systems for data storage and management.
 - Implementing Machine Learning models for different Predictive Analytics problems.
-- Conducting market research and statistical analysis to discover patterns and relationships.
-- Developing Key Performancee Indicators (KPIs), metrics and reports for strategic decision-making.
+- Conducting statistical analysis to discover patterns and relationships.
+- Developing Key Performancee Indicators (KPIs) and Metrics for strategic decision-making.
 - Collaborating with cross-functional teams in Agile environments.
   
 ### Certifications
@@ -37,5 +37,3 @@ A former Junior Data Analyst professional at Zenitech CS and a Master's Graduate
 - Amazon Web Services Cloud Practitioner
 - Alteryx Foundation Micro-Credential
 - Alteryx Machine Learning Fundamentals Micro-Credential
-
-
