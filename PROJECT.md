@@ -78,7 +78,7 @@
 
  ## R
  
-#### [Statistical Methods](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Statistical%20Methods/T-Test.pdf)
+#### [Statistical Methods](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Statistical%20Methods/)
 
 #### [Statistical Analytics - Panel Data Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Applied%20Econometrics/Panel%20Analysis.pdf)
 
