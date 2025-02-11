@@ -96,7 +96,7 @@
 
 ## Tableau
 
-#### [Descriptive Analytics - Supercenter](https://github.com/thienclaa/congenial-octo-projects/tree/main/Tableau/Supercenter)
+#### [Descriptive Analytics - Supercenter](https://github.com/thienclaa/congenial-octo-projects/tree/main/Tableau/Supercenter%20Performance)
 
   -  Define Problem: Perform SQL queries in MySQL Relational Database Management System for data preparation and data retrieval. Visualize key insights using dashboards in Tableau with many types of function such as Aggregation, Table Calculation, Logical, Date, and LOD Expression.
 
