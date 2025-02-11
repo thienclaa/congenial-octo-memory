@@ -35,8 +35,6 @@
 #### Others
 - ##### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Entertainment%20Agency%20Analysis)
     
-- ##### [Descriptive Analytics - Restaurant Food Recipe](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Food%20Recipe%20Analysis)
-    
 ## Python
 
 ### [Descriptive Analytics - Portfolio Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Taproot%20Foundation)
