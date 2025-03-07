@@ -22,22 +22,13 @@
 
   - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
     
-### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/School%20Scheduling%20Analysis)
-
-  -  Define Problem: Execute SQL queries for data preparation and data exploratory to understand historical data and patterns of a school scheduling system.
- 
-  - Data Collection: Datasets are collected from internal sources. Datasets contains over 300,000 information of a educational institution's students, classes, faculty, staff, buildings, departments, subjects, majors and categories, etc. that are stored in 21 tables.
-
-  - Data Preparation: Datasets are well structured and correctly formatted. There's also no missing values or duplicates to be removed or replaced.
-    
-  - Data Exploratory: Datasets are purposely collected and used by school administrators for Management Analysis and School Administration Analysis.
-    
 #### Others
+- ##### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/School%20Scheduling%20Analysis)
 - ##### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Entertainment%20Agency%20Analysis)
     
 ## Python
 
-### [Descriptive Analytics - Employee Performance Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Performance%20Analytics)
+### [Descriptive Analytics - Employee Performance Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/Python/Data%20Preparation%20%26%20Exploratory/Employee%20Performance%20Analytics/HelpDesk.ipynb)
 
   -  Define Problem: ZTCS, a technology company specializes in providing computer solution. ZTCS wants to improve and expand it's IT Helpdesk department capabilites by analyzing how well an employee is contributing to an organization's projects. It can also help identify areas for improvement, support data-driven decisions, and align individual performance with organizational success.
  
@@ -47,8 +38,8 @@
 
   - Data Exploratory: Response Time Analysis, Resolution Time Analysis, Time Serise Analysis and Category Analysis.
   
-  - Communication of insights: Python data visualization libraries.
-  - 
+  - Communication of insights: Python viz libraries (Matplotlib, Plotly.express, Plotly.graph_objects, Plotly.subplots).
+    
 ### [Descriptive Analytics - Portfolio Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Taproot%20Foundation)
 
   -  Define Problem: Taproot Foundation connects nonprofits and social change organizations with passionate professionals who share their expertise pro bono. Datasets are used to evaluate the results of projects to identify the outcomes, match rates, duration of projects and other relevant statistics. For example, identifying a project type that is chronically underperforming or undermatched compared to other project types in order to signify a need to broaden the pool of volunteer talent to other areas.
@@ -67,13 +58,10 @@
       
   - Communication of insights: Tableau dashboard.
 
-    
 #### Others
 - ##### [Data Preparation - Crowd Sourced Grocery Prices Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
     
 - ##### [Data Preparation - U.S.Largest Cities Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
-  
-- ##### [Data Visualization - U.S.Covid-19 Mortality Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Visualization)
 
  ## R
  
