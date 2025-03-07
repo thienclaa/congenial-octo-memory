@@ -37,6 +37,18 @@
     
 ## Python
 
+### [Descriptive Analytics - Employee Performance Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Performance%20Analytics)
+
+  -  Define Problem: ZTCS, a technology company specializes in providing computer solution. ZTCS wants to improve and expand it's IT Helpdesk department capabilites by analyzing how well an employee is contributing to an organization's projects. It can also help identify areas for improvement, support data-driven decisions, and align individual performance with organizational success.
+ 
+  - Data Collection: Datasets are extracted from both on-premise and cloud data warehouse. Datasets contains over 500,000 tickets from more than 100 employees consist details about tickets created by various employees from 2019 - 2024.
+    
+  - Data Preparation: Datasets aren't well structured and the format of some variables aren't correctly identified. There're many missing values that need to be replaced or cleaned. All of the datasets are following the ELT process which is a data integration process that involves extracting, loading, and then transforming.
+
+  - Data Exploratory: Response Time Analysis, Resolution Time Analysis, Time Serise Analysis and Category Analysis.
+  
+  - Communication of insights: Python data visualization libraries.
+  - 
 ### [Descriptive Analytics - Portfolio Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Taproot%20Foundation)
 
   -  Define Problem: Taproot Foundation connects nonprofits and social change organizations with passionate professionals who share their expertise pro bono. Datasets are used to evaluate the results of projects to identify the outcomes, match rates, duration of projects and other relevant statistics. For example, identifying a project type that is chronically underperforming or undermatched compared to other project types in order to signify a need to broaden the pool of volunteer talent to other areas.
@@ -55,17 +67,6 @@
       
   - Communication of insights: Tableau dashboard.
 
-### [Descriptive Analytics - Employee Performance Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Performance%20Analytics)
-
-  -  Define Problem: ZTCS, a technology company specializes in providing computer solution. ZTCS wants to improve and expand it's IT Helpdesk department capabilites by analyzing how well an employee is contributing to an organization's projects. It can also help identify areas for improvement, support data-driven decisions, and align individual performance with organizational success.
- 
-  - Data Collection: Datasets are extracted from both on-premise and cloud data warehouse. Datasets contains over 300,000 tickets from more than 100 employees consist details about tickets created by various employees from 2019 - 2024.
-    
-  - Data Preparation: Datasets aren't well structured and the format of some variables aren't correctly identified. There're also many missing values that need to be replaced or cleaned. All of the datasets are following the ELT framework which is a data integration process that involves extracting, loading, and then transforming.
-
-  - Data Exploratory: Response Time Analysis, Resolution Time Analysis, Time Serise Analysis and Category Analysis.
-  
-  - Communication of insights: Python data visualization libraries.
     
 #### Others
 - ##### [Data Preparation - Crowd Sourced Grocery Prices Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
