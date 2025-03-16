@@ -1,31 +1,38 @@
-## SQL
+## Machine Learning
 
-### [Descriptive Analytics - Market Basket](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Market%20Basket%20Analysis)
+### [Predictive Analytics - Fraudulent Transactions](https://github.com/thienclaa/congenial-octo-projects/blob/main/Python/Fraudulent%20Transactions%20Predictive%20Analytics/predictive_model_fraudulent_transactions.ipynb)
 
-  -  Define Problem: Create a data model and build a physical relational database for data storage and management in MySQL. Perform SQL queries for data preparation and data exploratory. Visualize key insights using dashboards in Tableau.
- 
-  - Data Collection: Datasets are obtained from Instacart, an electronic commerce grocery ordering and delivery organization. Datasets contains over 3 million grocery orders from more than 200,000 users consist details about the orders placed by various users, the sequence of products purchased in each order and also the aisle and department for the sold products.
+  -  Define Problem: ABC Bank has recently experienced an increase in fraudulent online transactions. The bank is seeking to implement a more robust fraud detection system to mitigate financial losses and protect its customers. They have collected a dataset of online transactions containing both legitimate and fraudulent transactions. The dataset is split into three separate tables: customers, transactions, and merchants.
+    
+  - Objective: Build a predictive model to identify potentially fraudulent transactions. Provide recommendations on how to improve the fraud detection system based on findings.
+    
+  - Data Collection: Datasets are collected from interal sources.
+    - **Customers table:** Contains customer_id, account_age and customer_demographics.
+    - **Transactions table:** Records of online transactions including transaction_id, customer_id, transaction_timestamp, transaction_amount, transaction_type, payment_method, account_balance_before, account_balance_after, transaction_device, ip_address, user_agent, and is_fraud.
+    - **Merchants table:** Information about the merchants involved merchan_id, merchan_category.
 
-  - Data Preparation: Datasets are well structured but required some data manipulation to remove empty strings, unnecessary values and assign necessary format for variables.
+  - Data Preparation: Datasets are well structured but still require some manipulation to ensure the completeness and validity of data.
 
-  - Data Exploratory: Product Analysis, Customer Segmentation Analysis and Trends Analysis.
+  - Data Exploratory: Key insights are gathered through Exploratory Data Analysis.
+    
+    - 95% of transactions are Non-Fraudulent and 5% of transactions are Fraudulent.
+    - Fraudulent transactions were highest with mobile transaction device and transfer transaction type.
+    - Fraudulent transactions were highest with credit card payment method and grocery category.
+    - Fraudulent Transactions were happened highest on Sunday and Thursday.
+    - Fraudulent transaction amount falls between -$5000 and $10,0000, and 50% of the transactions is greater than $5000.
+    - 50% of the frauduent transactions were happened to accounts that opened more than 1000 days.
       
-  - Communication of insights: Tableau dashboards.
-    
-### [Descriptive Analytics - Superstore Sales](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
+  - Communication of insights: Python visualization libraries.
 
-  -  Define Problem: Create a data model and build a relational database for data management in MySQL. Perform SQL queries for data exploratory.
- 
-  - Data Collection: Dataset is available on Kaggle. Dataset contains 1000 rows and 15 columns of supercenter sales performance from 3 different cites in Q1 of 2019.
-
-  - Data Preparation: Format of the dataset is correctly identified when creating a data model and there's also no missing values or duplicates to be removed or replaced.
-
-  - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
-    
 #### Others
-- ##### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/School%20Scheduling%20Analysis)
-- ##### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Entertainment%20Agency%20Analysis)
-    
+- ##### [Predictive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
+
+- ##### [Predictive Analytics - Small Business Administration Loan Approval](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/U.S.%20Small%20Business%20Administration)
+
+- ##### [Predictive Analytics - Car Prices Prediction](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Linear%20Models%20Car%20Prices)
+
+- ##### [Predictive Analytics - Hyper-Parameters Optimization](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Diabetes%20Binary%20Health%20Indicators)
+
 ## Python
 
 ### [Descriptive Analytics - Employee Performance Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/Python/Data%20Preparation%20%26%20Exploratory/Employee%20Performance%20Analytics/HelpDesk.ipynb)
@@ -63,38 +70,33 @@
     
 - ##### [Data Preparation - U.S.Largest Cities Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
 
-## Machine Learning
+## SQL
 
-### [Predictive Analytics - Fraudulent Transactions](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Taproot%20Foundation)
+### [Descriptive Analytics - Market Basket](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Market%20Basket%20Analysis)
 
-  -  Define Problem: ABC Bank has recently experienced an increase in fraudulent online transactions. The bank is seeking to implement a more robust fraud detection system to mitigate financial losses and protect its customers. They have collected a dataset of online transactions containing both legitimate and fraudulent transactions. The dataset is split into three separate tables: customers, transactions, and merchants.
-  - Objective: Build a predictive model to identify potentially fraudulent transactions. Provide recommendations on how to improve the fraud detection system based on findings.
-  - Data Collection: Datasets are collected from interal sources.
-    - **Customers table:** Contains customer_id, account_age and customer_demographics.
-    - **Transactions table:** Records of online transactions including transaction_id, customer_id, transaction_timestamp, transaction_amount, transaction_type, payment_method, account_balance_before, account_balance_after, transaction_device, ip_address, user_agent, and is_fraud.
-    - **Merchants table:** Information about the merchants involved merchan_id, merchan_category.
+  -  Define Problem: Create a data model and build a physical relational database for data storage and management in MySQL. Perform SQL queries for data preparation and data exploratory. Visualize key insights using dashboards in Tableau.
+ 
+  - Data Collection: Datasets are obtained from Instacart, an electronic commerce grocery ordering and delivery organization. Datasets contains over 3 million grocery orders from more than 200,000 users consist details about the orders placed by various users, the sequence of products purchased in each order and also the aisle and department for the sold products.
 
-  - Data Preparation: Datasets are well structured but still require some manipulation to ensure the completeness and validity of data.
+  - Data Preparation: Datasets are well structured but required some data manipulation to remove empty strings, unnecessary values and assign necessary format for variables.
 
-  - Data Exploratory: Key insights are gathered through Exploratory Data Analysis.
-    
-    - 95% of transactions are Non-Fraudulent and 5% of transactions are Fraudulent.
-    - Fraudulent transactions were highest with mobile transaction device and transfer transaction type.
-    - Fraudulent transactions were highest with credit card payment method and grocery category.
-    - Fraudulent Transactions were happened highest on Sunday and Thursday.
-    - Fraudulent transaction amount falls between -$5000 and $10,0000, and 50% of the transactions is greater than $5000.
-    - 50% of the frauduent transactions were happened to accounts that opened more than 1000 days.
+  - Data Exploratory: Product Analysis, Customer Segmentation Analysis and Trends Analysis.
       
-  - Communication of insights: Python visualization libraries.
+  - Communication of insights: Tableau dashboards.
+    
+### [Descriptive Analytics - Superstore Sales](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Superstore%20Sales%20Analysis)
 
+  -  Define Problem: Create a data model and build a relational database for data management in MySQL. Perform SQL queries for data exploratory.
+ 
+  - Data Collection: Dataset is available on Kaggle. Dataset contains 1000 rows and 15 columns of supercenter sales performance from 3 different cites in Q1 of 2019.
+
+  - Data Preparation: Format of the dataset is correctly identified when creating a data model and there's also no missing values or duplicates to be removed or replaced.
+
+  - Data Exploratory: Sales Analysis, Customer Behavior Analysis and Product Analysis.
+    
 #### Others
-##### [Predictive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
-
-##### [Predictive Analytics - Small Business Administration Loan Approval](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/U.S.%20Small%20Business%20Administration)
-
-##### [Predictive Analytics - Car Prices Prediction](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Linear%20Models%20Car%20Prices)
-
-##### [Predictive Analytics - Hyper-Parameters Optimization](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Diabetes%20Binary%20Health%20Indicators)
+- ##### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/School%20Scheduling%20Analysis)
+- ##### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Entertainment%20Agency%20Analysis)
 
 ## R
  
