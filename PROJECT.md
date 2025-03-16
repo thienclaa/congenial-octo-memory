@@ -63,17 +63,29 @@
     
 - ##### [Data Preparation - U.S.Largest Cities Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
 
- ## R
- 
-#### [Statistical Methods - ANNOVA, Log Transformation, T-Test](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Statistical%20Methods/)
-
-#### [Statistical Analytics - Panel Data Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Applied%20Econometrics/Panel%20Analysis.pdf)
-
-#### [Predictive Analytics - Car Prices Prediction](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Car%20Prices%20Linear.pdf)
-
-#### [Predictive Analytics - Loan Offer](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Loan%20Offer%20Logistic.pdf)
-
 ## Machine Learning
+
+### [Predictive Analytics - Fraudulent Transactions](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Taproot%20Foundation)
+
+  -  Define Problem: ABC Bank has recently experienced an increase in fraudulent online transactions. The bank is seeking to implement a more robust fraud detection system to mitigate financial losses and protect its customers. They have collected a dataset of online transactions containing both legitimate and fraudulent transactions. The dataset is split into three separate tables: customers, transactions, and merchants.
+    
+  - Data Collection: Datasets are collected from interal sources.
+    - Dataset is split into three tables:
+  - **Customers table:** Contains customer_id, account_age and customer_demographics
+  - **Transactions table:** Records of online transactions including transaction_id, customer_id, transaction_timestamp, transaction_amount, transaction_type, payment_method, account_balance_before, account_balance_after, transaction_device, ip_address, user_agent, and is_fraud
+  - **Merchants table:** Information about the merchants involved merchan_id, merchan_category
+
+  - Data Preparation: Datasets are already fairly well structured but required some manipulation to get the necessary format.
+
+  - Data Exploratory: Insights are most pertinent to the organization when deciding where to focus potential volunteer efforts.
+    
+    - Percentage of volunteer inquiries that failed to be selected
+    - Percentage of projects that succeeded
+    - Average days to project completion (could be due to cancellation or actual matching and completion of project)
+    - Average days to volunteer match to project
+    - Number of volunteer inquiries by project type
+      
+  - Communication of insights: Tableau dashboard.
 
 #### [Predictive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
 
@@ -82,6 +94,16 @@
 #### [Predictive Analytics - Car Prices Prediction](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Linear%20Models%20Car%20Prices)
 
 #### [Predictive Analytics - Hyper-Parameters Optimization](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Diabetes%20Binary%20Health%20Indicators)
+
+## R
+ 
+#### [Statistical Methods - ANNOVA, Log Transformation, T-Test](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Statistical%20Methods/)
+
+#### [Statistical Analytics - Panel Data Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Applied%20Econometrics/Panel%20Analysis.pdf)
+
+#### [Predictive Analytics - Car Prices Prediction](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Car%20Prices%20Linear.pdf)
+
+#### [Predictive Analytics - Loan Offer](https://github.com/thienclaa/congenial-octo-projects/blob/main/R/Business%20Intelligence/Predict%20Loan%20Offer%20Logistic.pdf)
 
 ## Tableau
 
