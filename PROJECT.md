@@ -36,7 +36,7 @@
   
   - Communication of insights: Python viz libraries (Matplotlib, Plotly.express, Plotly.graph_objects, Plotly.subplots).
     
-### [Descriptive Analytics - Portfolio Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Taproot%20Foundation)
+### [Descriptive Analytics - Investment Portfolio](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Taproot%20Foundation)
 
   -  Define Problem: Taproot Foundation connects nonprofits and social change organizations with passionate professionals who share their expertise pro bono. Datasets are used to evaluate the results of projects to identify the outcomes, match rates, duration of projects and other relevant statistics. For example, identifying a project type that is chronically underperforming or undermatched compared to other project types in order to signify a need to broaden the pool of volunteer talent to other areas.
  
