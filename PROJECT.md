@@ -1,4 +1,4 @@
-## Machine Learning
+## Python
 
 ### [Predictive Analytics - Fraudulent Transactions](https://github.com/thienclaa/congenial-octo-projects/blob/main/Python/Fraudulent%20Transactions%20Predictive%20Analytics/predictive_model_fraudulent_transactions.ipynb)
 
@@ -23,18 +23,6 @@
     - 50% of the frauduent transactions were happened to accounts that opened more than 1000 days.
       
   - Communication of insights: Python visualization libraries.
-
-#### Others
-
-- ##### [Predictive Analytics - Small Business Administration Loan Approval using Tree-based Models](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/U.S.%20Small%20Business%20Administration)
-
-- ##### [Predictive Analytics - Car Prices Prediction using Linear Models](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Linear%20Models%20Car%20Prices)
-  
-- ##### [Predictive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
-
-- ##### [Predictive Analytics - Diabetes Binary Health Indicators using Light GBM](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Diabetes%20Binary%20Health%20Indicators)
-
-## Python
 
 ### [Descriptive Analytics - Employee Performance Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/Python/Data%20Preparation%20%26%20Exploratory/Employee%20Performance%20Analytics/HelpDesk.ipynb)
 
@@ -70,6 +58,15 @@
 - ##### [Data Preparation - Crowd Sourced Grocery Prices Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
     
 - ##### [Data Preparation - U.S.Largest Cities Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
+
+#### Machine Learning
+- ##### [Predictive Analytics - Small Business Administration Loan Approval using Tree-based Models](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/U.S.%20Small%20Business%20Administration)
+
+- ##### [Predictive Analytics - Car Prices Prediction using Linear Models](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Linear%20Models%20Car%20Prices)
+  
+- ##### [Predictive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
+
+- ##### [Predictive Analytics - Diabetes Binary Health Indicators using Light GBM](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Diabetes%20Binary%20Health%20Indicators)
 
 ## SQL
 
