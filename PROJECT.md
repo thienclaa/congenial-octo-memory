@@ -13,7 +13,7 @@
 
   - Data Preparation: Datasets are well structured but still require some manipulation to ensure the completeness and validity of data.
 
-  - Data Exploratory: Key insights are gathered through Exploratory Data Analysis.
+  - Data Exploratory: Key insights are gathered through Exploratory Data Analysis. Some insights are listed below.
     
     - 95% of transactions are Non-Fraudulent and 5% of transactions are Fraudulent.
     - Fraudulent transactions were highest with mobile transaction device and transfer transaction type.
@@ -44,7 +44,7 @@
 
   - Data Preparation: Datasets are already fairly well structured but required some manipulation to get the necessary format.
 
-  - Data Exploratory: Insights are most pertinent to the organization when deciding where to focus potential volunteer efforts.
+  - Data Exploratory: Insights are most pertinent to the organization when deciding where to focus potential efforts.
     
     - Percentage of volunteer inquiries that failed to be selected.
     - Percentage of projects that succeeded.
