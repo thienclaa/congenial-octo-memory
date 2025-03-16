@@ -24,9 +24,9 @@
       
   - Communication of insights: Python visualization libraries.
 
-### [Descriptive Analytics - Employee Performance Analysis](https://github.com/thienclaa/congenial-octo-projects/blob/main/Python/Data%20Preparation%20%26%20Exploratory/Employee%20Performance%20Analytics/HelpDesk.ipynb)
+### [Descriptive Analytics - Employee Performance](https://github.com/thienclaa/congenial-octo-projects/blob/main/Python/Data%20Preparation%20%26%20Exploratory/Employee%20Performance%20Analytics/HelpDesk.ipynb)
 
-  -  Define Problem: ZTCS, a technology company specializes in providing computer solution. ZTCS wants to improve and expand it's IT Helpdesk department capabilites by analyzing how well an employee is contributing to an organization's projects. It can also help identify areas for improvement, support data-driven decisions, and align individual performance with organizational success.
+  -  Define Problem: XYZ, a technology company specializes in providing computer solution. XYZ wants to improve and expand it's IT Helpdesk department capabilites by analyzing how well an employee is contributing to an organization's projects. It can also help identify areas for improvement, support data-driven decisions, and align individual performance with organizational success.
  
   - Data Collection: Datasets are extracted from both on-premise and cloud data warehouse. Datasets contains over 500,000 tickets from more than 100 employees consist details about tickets created by various employees from 2019 - 2024.
     
@@ -55,9 +55,9 @@
   - Communication of insights: Tableau dashboard.
 
 #### Others
-- ##### [Data Preparation - Crowd Sourced Grocery Prices Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
+- ##### [Data Preparation - Crowd Sourced Grocery Prices](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
     
-- ##### [Data Preparation - U.S.Largest Cities Analysis](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
+- ##### [Data Preparation - U.S.Largest Cities](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
 
 #### Machine Learning
 - ##### [Predictive Analytics - Small Business Administration Loan Approval using Tree-based Models](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/U.S.%20Small%20Business%20Administration)
@@ -94,6 +94,7 @@
     
 #### Others
 - ##### [Descriptive Analytics - School Scheduling](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/School%20Scheduling%20Analysis)
+  
 - ##### [Descriptive Analytics - Entertainment Agency](https://github.com/thienclaa/congenial-octo-projects/tree/main/SQL/Entertainment%20Agency%20Analysis)
 
 ## R
