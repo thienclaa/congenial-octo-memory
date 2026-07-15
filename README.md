@@ -26,15 +26,13 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - ![Llama](https://img.shields.io/badge/Llama-FFFFFF?style=flat-square&logo=llama&logoColor=#E35A16)
 - ![BigQuery](https://img.shields.io/badge/BigQuery-FFFFFF?style=flat-square&logo=bigquery&logoColor=#E35A16)
 
-### Portfolio
-## Featured Projects
+### Featured Projects
 
 - 📊 Sales Analytics Platform
 - ⚡ Power BI Semantic Model Optimization
 - 📞 Customer Service & Complaint Analytics
 - 🤖 AI Chat Labeling with Llama
 - 🔄 Python ETL Automation
-- Check out the [PROJECTS](Projects.md) section for hands-on works.
   
 ### Expertise
 - Business Intelligence
