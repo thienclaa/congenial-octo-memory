@@ -28,7 +28,7 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - ![Databricks](https://img.shields.io/badge/-Databricks-47A248?style=flat-square&logo=databricks&logoColor=white)
 - ![BigQuery](https://img.shields.io/badge/BigQuery-FFFFFF?style=flat-square&logo=bigquery&logoColor=#E35A16)
 
-#### 
+#### Databases
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![SQLServer](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 - ![Dagster](https://img.shields.io/badge/-Dagster-232F3E?style=flat-square&logo=dagster&Color=white)
