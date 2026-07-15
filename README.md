@@ -16,7 +16,7 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 ### Tech Stack
 #### Languages
 - ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-square&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
 #### Business Intelligence
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-FFCA28?style=flat-square&logo=powerbi&logoColor=white)
