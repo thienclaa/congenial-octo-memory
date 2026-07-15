@@ -11,7 +11,7 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-suqare&logo=python&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![Databricks](https://img.shields.io/badge/-Databricks-47A248?style=flat-square&logo=databricks&logoColor=white)
-- ![PowerBI](https://img.shields.io/badge/-PowerBI-FFCA28?style=flat-square&logo=powerbi)
+- ![PowerBI](https://img.shields.io/badge/-PowerBI-FFCA28?style=flat-square&logo=powerbi&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/-Tableau-CC6699?style=flat-square&logo=tableau&logoColor=white)
 - ![Dagster](https://img.shields.io/badge/-Dagster-232F3E?style=flat-square&logo=amazonwebservices&Color=white)
 - ![Llama](https://img.shields.io/badge/Llama-FFFFFF?style=flat-sqaure&logo=llama&logoColor=#E35A16)
