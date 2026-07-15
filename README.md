@@ -27,19 +27,26 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - ![BigQuery](https://img.shields.io/badge/BigQuery-FFFFFF?style=flat-square&logo=bigquery&logoColor=#E35A16)
 
 ### Portfolio
+## Featured Projects
+
+- 📊 Sales Analytics Platform
+- ⚡ Power BI Semantic Model Optimization
+- 📞 Customer Service & Complaint Analytics
+- 🤖 AI Chat Labeling with Llama
+- 🔄 Python ETL Automation
 - Check out the [PROJECTS](Projects.md) section for hands-on works.
   
-### Experienced In
+### Expertise
+- Business Intelligence
 - Enterprise Power BI Development
 - Semantic Model Design
 - Power BI Performance Optimization
+- SQL Development
 - Customer Analytics
 - Operational Analytics
-- SQL Development
 - ETL Automation
-- Data Modeling
 - Python Automation
-- Business Intelligence
+- Data Modeling
   
 ### Certifications
 - Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
