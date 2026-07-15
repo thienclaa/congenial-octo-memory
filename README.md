@@ -7,7 +7,7 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 ### Tehc Stack
 - ![SQL Server](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=sql&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
-- ![Azure Synapse Analytics](https://img.shields.io/badge/-Azure_Synapse-CC6699?style=flat-square&logo=sass&logoColor=white)
+- ![Azure Synapse Analytics](https://img.shields.io/badge/-Azure_Synapse-CC6699?style=flat-square&logo=sql&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-suqare&logo=python&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![Databricks](https://img.shields.io/badge/-Databricks-47A248?style=flat-square&logo=mongodb&logoColor=white)
