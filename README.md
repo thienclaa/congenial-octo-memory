@@ -1,7 +1,10 @@
 ## Welcome to Congenial Octo Memory
 
-### Hi, I'm Lucky.
-A former Junior Data Analyst professional at Zenitech CS and a Master's Graduate in Business Analytics from University of Texas at Dallas with a diverse background in Business Decision Analytics, Operational Analytics, Product Development Analytics and Digital Marketing Analytics in Sports.
+# Hi, I'm Thien Chi La
+
+Executive Data Analyst specializing in Business Intelligence, Customer Analytics, and E-Commerce Analytics within Pharmacy & Healthcare.
+
+I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synapse Analytics, Databricks and Dagster to support business decision-making at scale.
 
 ### Data Analytics
 - ![SQL](https://img.shields.io/badge/-SQL-F05032?style=flat-square&logo=sql&logoColor=white)
