@@ -17,17 +17,6 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - ![Llama](https://img.shields.io/badge/Llama-FFFFFF?style=flat-sqaure&logo=apachespark&logoColor=#E35A16)
 - ![BigQuery](https://img.shields.io/badge/BigQuery-FFFFFF?style=flat-sqaure&logo=apachespark&logoColor=#E35A16)
 
-
-Azure Synapse Analytics
-Databricks
-Power BI
-Python
-Dagster
-Llama
-MySQL
-BigQuery 
-
-
 ### Portfolio
 - Check out the [PROJECTS](Projects.md) section for hands-on works.
   
