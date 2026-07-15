@@ -21,14 +21,16 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - Check out the [PROJECTS](Projects.md) section for hands-on works.
   
 ### Experienced In
-- Python, SQL, Alteryx ETL/ELT processes.
-- Data collection, preparation, and exploratory using Python, R, and SQL
-- Data visualization as report and dashboard using Tableau, Looker Studio.
-- Developing data models and building relational database management systems for data management.
-- Implementing Machine Learning techniques to train different models for various Predictive Analytics problems.
-- Conducting statistical analysis to uncover patterns and relationships.
-- Developing Key Performancee Indicators (KPIs) and Metrics for strategic decision-making.
-- Collaborating with cross-functional teams in Agile environments.
+- Enterprise Power BI Development
+- Semantic Model Design
+- Power BI Performance Optimization
+- Customer Analytics
+- Operational Analytics
+- SQL Development
+- ETL Automation
+- Data Modeling
+- Python Automation
+- Business Intelligence
   
 ### Certifications
 - Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
