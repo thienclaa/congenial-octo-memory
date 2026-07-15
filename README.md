@@ -6,12 +6,16 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 
 ### Business Impact
 
+- 📈 Increased call center revenue by 15% through customer repurchase analytics.
+- 🤖 Reduced operational expenses by 3% using AI-powered customer intent analytics.
 - 📊 Built and maintained 10+ enterprise Power BI reports serving 100+ business users.
 - 💊 Supported analytics for 100K+ daily sales transactions across pharmacy and healthcare operations.
 - ⚡ Reduced Power BI semantic model refresh time from 90 to 30 minutes.
 - 💾 Reduced semantic model storage from 15 GB to 5 GB.
-- 📈 Increased call center revenue by 15% through customer repurchase analytics.
-- 🤖 Reduced operational expenses by 3% using AI-powered customer intent analytics.
+
+## About This Portfolio
+
+This portfolio showcases enterprise analytics projects across sales, customer service, AI-powered analytics, and reporting automation. Each project focuses on solving real business problems through data modeling, SQL, Power BI, Python, and modern data platforms.
 
 ### Tech Stack
 #### Languages
@@ -42,16 +46,13 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - 🔄 Python ETL Automation
   
 ### Expertise
-- Business Intelligence
+
+- Business Intelligence & KPI Reporting
 - Enterprise Power BI Development
-- Semantic Model Design
-- Power BI Performance Optimization
-- SQL Development
-- Customer Analytics
-- Operational Analytics
-- ETL Automation
-- Python Automation
-- Data Modeling
+- Semantic Model Design & Optimization
+- Customer & Operational Analytics
+- SQL Development & Data Modeling
+- Python Automation & ETL Pipelines
   
 ### Certifications
 - Graduate Certificate in Applied Machine Learning from University of Texas at Dallas
@@ -60,6 +61,6 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - Alteryx Foundation Micro-Credential
 - Alteryx Machine Learning Fundamentals Micro-Credential
 
-![GitHub Stats]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thienclaa&show_icons=true&theme=default)
 
-![Top Languages]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thienclaa&layout=compact)
