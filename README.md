@@ -61,6 +61,8 @@ This portfolio showcases enterprise analytics projects across sales, customer se
 - Alteryx Foundation Micro-Credential
 - Alteryx Machine Learning Fundamentals Micro-Credential
 
+---
+I enjoy solving business problems with data and building scalable analytics solutions that create measurable business impact.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thienclaa&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thienclaa&layout=compact)
