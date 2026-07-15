@@ -18,20 +18,19 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-square&logo=python&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
-
 #### Business Intelligence
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-FFCA28?style=flat-square&logo=powerbi&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/-Tableau-CC6699?style=flat-square&logo=tableau&logoColor=white)
-
 #### Data Platforms
 - ![Azure Synapse](https://img.shields.io/badge/-Azure_Synapse-CC6699?style=flat-square&logo=microsoftazure&logoColor=white)
 - ![Databricks](https://img.shields.io/badge/-Databricks-47A248?style=flat-square&logo=databricks&logoColor=white)
 - ![BigQuery](https://img.shields.io/badge/BigQuery-FFFFFF?style=flat-square&logo=bigquery&logoColor=#E35A16)
-
 #### Databases
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![SQLServer](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+#### Data Engineering & Automation
 - ![Dagster](https://img.shields.io/badge/-Dagster-232F3E?style=flat-square&logo=dagster&Color=white)
+#### AI & Machine Learning
 - ![Llama](https://img.shields.io/badge/Llama-FFFFFF?style=flat-square&logo=llama&logoColor=#E35A16)
 
 ### Featured Projects
