@@ -14,17 +14,25 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - 🤖 Reduced operational expenses by 3% using AI-powered customer intent analytics.
 
 ### Tech Stack
-- ![SQL Server](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
-- ![Azure Synapse Analytics](https://img.shields.io/badge/-Azure_Synapse-CC6699?style=flat-square&logo=microsoftazure&logoColor=white)
+#### Languages
 - ![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-square&logo=python&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![Databricks](https://img.shields.io/badge/-Databricks-47A248?style=flat-square&logo=databricks&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+- ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
+
+#### Business Intelligence
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-FFCA28?style=flat-square&logo=powerbi&logoColor=white)
 - ![Tableau](https://img.shields.io/badge/-Tableau-CC6699?style=flat-square&logo=tableau&logoColor=white)
+
+#### Data Platforms
+- ![Azure Synapse](https://img.shields.io/badge/-Azure_Synapse-CC6699?style=flat-square&logo=microsoftazure&logoColor=white)
+- ![Databricks](https://img.shields.io/badge/-Databricks-47A248?style=flat-square&logo=databricks&logoColor=white)
+- ![BigQuery](https://img.shields.io/badge/BigQuery-FFFFFF?style=flat-square&logo=bigquery&logoColor=#E35A16)
+
+#### 
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![SQLServer](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 - ![Dagster](https://img.shields.io/badge/-Dagster-232F3E?style=flat-square&logo=dagster&Color=white)
 - ![Llama](https://img.shields.io/badge/Llama-FFFFFF?style=flat-square&logo=llama&logoColor=#E35A16)
-- ![BigQuery](https://img.shields.io/badge/BigQuery-FFFFFF?style=flat-square&logo=bigquery&logoColor=#E35A16)
 
 ### Featured Projects
 
@@ -52,3 +60,7 @@ I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synap
 - Amazon Web Services Cloud Practitioner
 - Alteryx Foundation Micro-Credential
 - Alteryx Machine Learning Fundamentals Micro-Credential
+
+![GitHub Stats]
+
+![Top Languages]
