@@ -4,7 +4,16 @@ Executive Data Analyst specializing in Business Intelligence, Customer Analytics
 
 I design enterprise analytics solutions using SQL, Power BI, Python, Azure Synapse Analytics, Databricks, and Dagster to transform data into actionable business insights and support data-driven decision-making at scale.
 
-### Tehc Stack
+### Business Impact
+
+- 📊 Built and maintained 10+ enterprise Power BI reports serving 100+ business users.
+- 💊 Supported analytics for 100K+ daily sales transactions across pharmacy and healthcare operations.
+- ⚡ Reduced Power BI semantic model refresh time from 90 to 30 minutes.
+- 💾 Reduced semantic model storage from 15 GB to 5 GB.
+- 📈 Increased call center revenue by 15% through customer repurchase analytics.
+- 🤖 Reduced operational expenses by 3% using AI-powered customer intent analytics.
+
+### Tech Stack
 - ![SQL Server](https://img.shields.io/badge/-SQL_Server-F05032?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 - ![R](https://img.shields.io/badge/-R-2496ED?style=flat-square&logo=r&logoColor=white)
 - ![Azure Synapse Analytics](https://img.shields.io/badge/-Azure_Synapse-CC6699?style=flat-square&logo=microsoftazure&logoColor=white)
