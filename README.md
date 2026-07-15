@@ -1,6 +1,4 @@
-## Welcome to Congenial Octo Memory
-
-# Hi, I'm Thien Chi La
+## Hi, I'm Thien Chi La
 
 Executive Data Analyst specializing in Business Intelligence, Customer Analytics, and E-Commerce Analytics within Pharmacy & Healthcare.
 
