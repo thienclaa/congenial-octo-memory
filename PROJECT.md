@@ -31,11 +31,6 @@ The enterprise projects are based on real-world business problems in Pharmacy & 
     
 ### [Descriptive Analytics - Investment Portfolio](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Taproot%20Foundation)
 
-#### Others
-- ##### [Data Preparation - Crowd Sourced Grocery Prices](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
-    
-- ##### [Data Preparation - U.S.Largest Cities](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
-
 #### Machine Learning
 - ##### [Predictive Analytics - Small Business Administration Loan Approval using Tree-based Models](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/U.S.%20Small%20Business%20Administration)
 
@@ -44,6 +39,11 @@ The enterprise projects are based on real-world business problems in Pharmacy & 
 - ##### [Predictive Analytics - User and Entity Behaviors](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/User%20and%20Entity%20Behaviors%20Analytics)
 
 - ##### [Predictive Analytics - Diabetes Binary Health Indicators using Light GBM](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Machine%20Learning/Diabetes%20Binary%20Health%20Indicators)
+
+#### Others
+- ##### [Data Preparation - Crowd Sourced Grocery Prices](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Crowd%20Sourced%20Grocery%20Prices)
+    
+- ##### [Data Preparation - U.S.Largest Cities](https://github.com/thienclaa/congenial-octo-projects/tree/main/Python/Data%20Preparation%20%26%20Exploratory/Largest%20U.S%20Cities)
 
 ## SQL
 
